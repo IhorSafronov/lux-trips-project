@@ -1,3 +1,1 @@
-# lux-trips-project
-
-text
+[Ссылка на index.html](dist/index.html)
